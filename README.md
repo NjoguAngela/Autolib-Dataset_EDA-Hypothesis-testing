@@ -31,4 +31,4 @@ The analysis of this dataset was done in a Jupyter notebook.
 The code can run in any software that can read code in the python language.
 
 ## Contact details
-If you wish to reach out to me to offer critics about the code, feel free to reach out to me through this github profile.
+If you wish to reach out to me to offer critic or advice about the code, feel free to reach out to me through this github profile.
