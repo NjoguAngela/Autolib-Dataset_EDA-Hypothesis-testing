@@ -15,8 +15,15 @@ The analysis undertaken was that of an Autolib electric car sharing company data
   12. Slots_freed_sum - Number of recharging slots released that date in that area
   13. Slots_taken_sum - Number of recharging slots taken that date in that area
 The dataset had 16085 rows and 13 columns.
-## Summary of Analysis
 
+## Summary of Analysis
+The following are the steps taken in the analysis of this dataset:
+  1. Loading relevant libraries
+  2. Checking and tidying the data
+  3. Univariate analysis
+  4. Bivariate analysis
+  5. Hypothesis testing 
+  
 ## Technologies used
 The analysis of this dataset was done in a Jupyter notebook.
 
