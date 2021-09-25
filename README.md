@@ -14,7 +14,7 @@ The analysis undertaken was that of an Autolib electric car sharing company data
   11. Utilib_14_returned_sum - Number of Utilib 1.4 returned that date in that area
   12. Slots_freed_sum - Number of recharging slots released that date in that area
   13. Slots_taken_sum - Number of recharging slots taken that date in that area
-
+The dataset had 16085 rows and 13 columns.
 ## Summary of Analysis
 
 ## Technologies used
