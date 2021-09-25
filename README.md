@@ -3,7 +3,7 @@
 The analysis undertaken was that of an Autolib electric car sharing company dataset. The dataset detailed the different cars borrowed and returned and charging slot usage per day in different Autolib stations. The dataset contained the following columns:
   1. postal code - postal code of the area
   2. date - date of the row aggregation
-  3. n_daily_data_points - number of daily data poinst that were available for
+  3. n_daily_data_points - number of daily data points that were available
   4. dayOfWeek - identifier of weekday (0: Monday -> 6: Sunday)
   5. day_type - weekday or weekend
   6. Bluecars_taken_sum - Number of bluecars taken that date in that area
